@@ -1,7 +1,7 @@
 ## Dashboard Preview
 
 ### Home Page
-![Home Page](https://github.com/emalon/Power-Bi-Project/blob/main/Screenshots/Home%20Page.png?raw=true)
+![Home Page](Screenshots/Home%20Page.png)
 
 ### Project Information
 ![Info](Screenshots/Info%20Page.png)
